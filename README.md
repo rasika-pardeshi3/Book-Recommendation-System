@@ -1,5 +1,7 @@
 I built a Book Recommendation System as part of my learning journey in Java and database integration.
+
 🔹Features:
+
 ✅Add New Book
 ✅View All Books
 ✅Update Book By Name
